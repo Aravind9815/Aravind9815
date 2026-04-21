@@ -28,8 +28,8 @@
 - Extracted real-time data using Python & BeautifulSoup  
 
 🔹 **Data Cleaning & Analysis** [link](https://github.com/Aravind9815/MUSIC-STORE-MANAGEMENT) 
-- Handled missing data and performed EDA  
-
+- Handled missing data and performed EDA
+- **and more check on my repo**
 ---
 
 ## 📊 GitHub Stats

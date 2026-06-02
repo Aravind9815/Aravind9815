@@ -37,11 +37,6 @@
 
 ---
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Aravind9815&theme=radical)
-
----
-
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/mallaiahgariaravind
 - Email: mallaiahgariaravind4@gmail.com 
